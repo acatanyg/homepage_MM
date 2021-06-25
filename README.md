@@ -1,6 +1,4 @@
-# Minimal Mistakes moixbru 20210622
-
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+# Minimal Mistakes moixbruhomepage 20210625
 
 Contains basic configuration to get you a site with:
 
@@ -13,7 +11,4 @@ Contains basic configuration to get you a site with:
 - Sample about page.
 - Sample 404 page.
 - Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
 
