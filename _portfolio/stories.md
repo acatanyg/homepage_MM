@@ -6,40 +6,54 @@ header:
   teaser: assets/images/teaser-calablava1a.jpg
 sidebar:
   - title: "Instagram-ACG"
-    image: /assets/images/500x300.jpg
+    image: /assets/images/500x300.png
     image_alt: "logo"
     text: "Stories de insta"
   - title: "2020"
     text: "Mi archivo"
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
+
 gallery202001:
   - url: /assets/images/stories/202001/202001-01.jpg
     image_path: /assets/images/stories/202001/202001-01.jpg
     alt: "2020-01-Bild_01"
+    title: "2020-01-Bild_01"
 gallery202005:
-  - url: /assets/images/stories/202001/202005-01.jpg
+  - url: /assets/images/stories/202005/202005-01.jpg
     image_path: /assets/images/stories/202005/202005-01.jpg
     alt: "2020-05-Bild_01"
-      - url: /assets/images/stories/202001/202005-02.jpg
+    title: "2020-05-Bild_01"
+  - url: /assets/images/stories/202005/202005-02.jpg
     image_path: /assets/images/stories/202005/202005-02.jpg
     alt: "2020-05-Bild_02"
-  - url: /assets/images/stories/202001/202005-03.jpg
+    title: "2020-05-Bild_02"
+  - url: /assets/images/stories/202005/202005-03.jpg
     image_path: /assets/images/stories/202005/202005-03.jpg
     alt: "2020-05-Bild_03"
-  - url: /assets/images/stories/202001/202005-04.jpg
+    title: "2020-05-Bild_03"
+  - url: /assets/images/stories/202005/202005-04.jpg
     image_path: /assets/images/stories/202005/202005-04.jpg
     alt: "2020-05-Bild_04"
-
-gallery202001xx:
+    title: "2020-05-Bild_04"
+gallery2020xx:
   - url: /assets/images/stories/202001/202001-01.jpg
     image_path: /assets/images/stories/202001/202001-01.jpg
     alt: "2020-01-Bild_01"
-
-- url: /assets/images/unsplash-gallery-image-2.jpg
+    title: "xx 2020-05-Bild_04"
+  - url: /assets/images/stories/202005/202005-02.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
+    title: "xx 2020-05-Bild_04"
+  - url: /assets/images/stories/202005/202005-02.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
+    title: "xx 2020-05-Bild_04"
+
 ---
 
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
