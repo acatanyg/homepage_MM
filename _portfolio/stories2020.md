@@ -11,12 +11,6 @@ sidebar:
     text: "Stories de insta"
   - title: "2020"
     text: "Mi archivo"
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 
 gallery202001:
   - url: /assets/images/stories/202001/202001-01.jpg
@@ -40,6 +34,29 @@ gallery202005:
     image_path: /assets/images/stories/202005/202005-04.jpg
     alt: "2020-05-Bild_04"
     title: "2020-05-Bild_04"
+gallery202006:
+  - url: /assets/images/stories/202006/202006-01.jpg
+    image_path: /assets/images/stories/202006/202006-01.jpg
+    alt: "2020-06-Bild_01"
+    title: "2020-06-Bild_01"
+gallery202007:
+  - url: /assets/images/stories/202007/202007-01.jpg
+    image_path: /assets/images/stories/202007/202007-01.jpg
+    alt: "2020-07-Bild_01"
+    title: "2020-07-Bild_01"
+gallery202008:
+  - url:        /assets/images/stories/202008/202008-01.jpg
+    image_path: /assets/images/stories/202008/202008-01.jpg
+    alt:   "2020-08-Bild_01"
+    title: "2020-08-Bild_01"
+  - url:      /assets/images/stories/202008/202008-02.jpg
+    image_path: /assets/images/stories/202008/202008-02.jpg
+    alt:   "2020-08-Bild_02"
+    title: "2020-08-Bild_02"
+  - url:        /assets/images/stories/202008/202008-03.jpg
+    image_path: /assets/images/stories/202008/202008-03.jpg
+    alt:   "2020-08-Bild_03"
+    title: "2020-08-Bild_03"
 gallery2020xx:
   - url: /assets/images/stories/202001/202001-01.jpg
     image_path: /assets/images/stories/202001/202001-01.jpg
@@ -66,6 +83,18 @@ hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack 
 
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
 
-{% include gallery id="gallery2020xx" caption="xx This is a sample gallery to go along with this case study." %}
+{% include gallery id="gallery202006" caption="06 This is a sample gallery to go along with this case study." %}
 
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+
+{% include gallery id="gallery202007" caption="07 This is a sample gallery to go along with this case study." %}
+
+hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+
+{% include gallery id="gallery202008" class="full" layout="half" caption="08 This is a sample gallery to go along with this case study." %}
+
+hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+
+{% include gallery id="gallery2020xx" caption="xx This is a sample gallery to go along with this case study." %}
+
