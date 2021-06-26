@@ -1,6 +1,6 @@
 ---
-title: "Instagram Stories bis"
-excerpt: "Archivo de stories de instagram hasta 2019"
+title: "Instagram Stories 2017-2019"
+excerpt: "Archivo de stories de instagram 2017-2019"
 header:
   image: /assets/images/teaser-calablava1.jpg
   teaser: assets/images/teaser-calablava1a.jpg
@@ -14,7 +14,7 @@ sidebar:
 
 gallery201712:
   - url:        /assets/images/stories/201712/201712-01.mp4
-    image_path: /assets/images/stories/201712/201712-01.mp4
+    image_path: /assets/images/stories/201712/201712-01-th.jpg
     alt:   "2017-12-Bild_01"
     title: "2017-12-Bild_01"
 gallery201804:
@@ -41,18 +41,18 @@ gallery201809:
     title: "2018-09-Bild_02"
 gallery201901:
   - url:        /assets/images/stories/201901/201901-01.mp4
-    image_path: /assets/images/stories/201901/201901-01.mp4
-    alt:   "2019-01-Bild_01"
-    title: "2019-01-Bild_01"
+    image_path: /assets/images/stories/201901/201901-01-th.jpg
+    alt:   "2019-01-Video_01"
+    title: "2019-01-Video_01"
   - url:        /assets/images/stories/201901/201901-02.mp4
-    image_path: /assets/images/stories/201901/201901-02.mp4
-    alt:   "2019-01-Bild_02"
-    title: "2019-01-Bild_02"
+    image_path: /assets/images/stories/201901/201901-02-th.jpg
+    alt:   "2019-01-Video_02"
+    title: "2019-01-Video_02"
 gallery201902:
   - url:        /assets/images/stories/201902/201902-01.mp4
-    image_path: /assets/images/stories/201902/201902-01.mp4
-    alt:   "2019-02-Bild_01"
-    title: "2019-02-Bild_01"
+    image_path: /assets/images/stories/201902/201902-01-th.jpg
+    alt:   "2019-02-Video_01"
+    title: "2019-02-Video_01"
 gallery201903:
   - url:        /assets/images/stories/201903/201903-01.jpg
     image_path: /assets/images/stories/201903/201903-01.jpg
@@ -63,18 +63,18 @@ gallery201903:
     alt:   "2019-03-Bild_02"
     title: "2019-03-Bild_02"
   - url:        /assets/images/stories/201903/201903-03.mp4
-    image_path: /assets/images/stories/201903/201903-03.mp4
-    alt:   "2019-03-Bild_03"
-    title: "2019-03-Bild_03"
+    image_path: /assets/images/stories/201903/201903-03-th.jpg
+    alt:   "2019-03-Video_03"
+    title: "2019-03-Video_03"
 gallery201906:
   - url:        /assets/images/stories/201906/201906-01.mp4
-    image_path: /assets/images/stories/201906/201906-01.mp4
-    alt:   "2019-06-Bild_01"
-    title: "2019-06-Bild_01"
+    image_path: /assets/images/stories/201906/201906-01-th.jpg
+    alt:   "2019-06-Video_01"
+    title: "2019-06-Video_01"
   - url:        /assets/images/stories/201906/201906-02.mp4
-    image_path: /assets/images/stories/201906/201906-02.mp4
-    alt:   "2019-06-Bild_02"
-    title: "2019-06-Bild_02"
+    image_path: /assets/images/stories/201906/201906-02-th.jpg
+    alt:   "2019-06-Video_02"
+    title: "2019-06-Video_02"
 gallery201908:
   - url:        /assets/images/stories/201908/201908-01.jpg
     image_path: /assets/images/stories/201908/201908-01.jpg
@@ -88,7 +88,7 @@ gallery201912:
 
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Todas las pequenya secuencias de instagram ....
 
 {% include gallery id="gallery201712" caption="01 This is a sample gallery to go along with this case study." %}
 
