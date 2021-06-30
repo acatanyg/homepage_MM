@@ -97,4 +97,3 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 {% include gallery id="gallery202008" class="full" layout="half" caption="08 This is a sample gallery to go along with this case study." %}
 
 {% include gallery id="gallery202011" caption="xx This is a sample gallery to go along with this case study." %}
-
